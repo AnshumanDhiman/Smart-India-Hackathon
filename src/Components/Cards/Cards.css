@@ -1,0 +1,44 @@
+.heading-edit1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 2.1rem;
+    padding: 0% 5%;
+
+}
+
+.line-edit1 {
+    width: 7%;
+    height: 5px;
+    background-color: #FF9933;
+    margin-left: 5%;
+}
+
+.line-edit2 {
+    width: 15%;
+    height: 5px;
+    background-color: #FF9933;
+    margin-left: 5%;
+}
+
+.line-edit3 {
+    width: 25%;
+    height: 5px;
+    background-color: #FF9933;
+    margin-left: 1%;
+}
+
+.heading-edit2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 2.1rem;
+    margin-top: 45%;
+}
+
+.circle {
+    width: 65px;
+    height: 65px;
+    border-radius: 100%;
+    background-color: #FF9933;
+    margin-top: 5%;
+    text-align: center;
+}

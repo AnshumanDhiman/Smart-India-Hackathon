@@ -1,10 +1,12 @@
+import 'antd/dist/antd.css';
 import './App.css';
-import Nav from './Components/Navbar/Navbar.js';
+import Page1 from './pages/page1'
+
 
 function App() {
   return (
     <div className="App">
-    <Nav />
+    <Page1/>
     </div>
   );
 }

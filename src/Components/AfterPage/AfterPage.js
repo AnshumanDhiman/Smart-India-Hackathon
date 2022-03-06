@@ -1,4 +1,4 @@
-import './AfterPage.scss';
+import './AfterPage.css';
 
 const AfterPage = () => {
     return(
